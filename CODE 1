@@ -1,0 +1,8 @@
+#Develop a python program that demonstrates the use of required keyword,default and variable-length arguments through functions.
+#for student details SY-4
+
+def student(roll_no,name):
+    print("Roll Number:",roll_no)
+    print("Name of Student:",name)
+
+student(52,"Sharwari") 
